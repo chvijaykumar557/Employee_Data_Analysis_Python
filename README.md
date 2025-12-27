@@ -1,4 +1,4 @@
-# Employee_Data_Analysis – Python
+# Employee Data Analysis – Python
 
 ## Project Objective
 Analyze employee data using Python and Pandas to gain insights into salary trends, gender distribution, and employment types.
